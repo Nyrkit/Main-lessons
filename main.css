@@ -1,0 +1,106 @@
+.main-top{
+    max-height: 110px;
+    height: 110px;
+    border-bottom: solid 2px lightgrey;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    max-width: 1440px;
+    max-height: 100px;
+    margin-left: 12%;
+}
+.buttons{
+    max-width: 60px;
+    max-height: 40px;
+}
+
+.Eur{
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+.Usd{
+    margin-bottom: 3px;
+}
+.Ua{
+    background: white;
+    border: none;
+}
+.Ru{
+    background-color: lightgreen;
+    border: none;
+    color: white;
+}
+.fa{
+    margin-right: 15px;
+}
+.you{
+    margin-left: 15px;
+}
+.divs{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.div1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 30px;
+    
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Dim{
+   height: 40px;
+   padding-left: 55px;
+   width: 130px;
+   border: none;
+   background: #EFF3F6;
+
+}
+.minidiv1{
+    background: red;
+}
+.nomers{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img2{
+    margin-bottom: 5px;
+    margin-left: 7px;
+}
+.btn2{
+    width: 42px;
+    height: 42px;
+    background: red;
+    border: none;
+}
+.btn3{
+    width: 42px;
+    height: 42px;
+    background: green;
+    border: none;
+}
+.line{
+    background: lightgrey;
+    width: 1.5px;
+    height: 40px;
+}
+.line1{
+    background: lightgrey;
+    width: 1.5px;
+    height: 40px;
+    margin-left: 20px;
+}
+.line2{
+    background: lightgrey;
+    width: 1.5px;
+    height: 40px;
+    margin-right: 23px;}
